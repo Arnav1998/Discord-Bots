@@ -1,0 +1,23 @@
+{
+  "name": "walter_white",
+  "version": "1.0.0",
+  "description": "Discord bot that prints random quotes said by the Breaking Bad character, Walter White.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arnav1998/Discord-Bots.git"
+  },
+  "author": "Arnav Singhania",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arnav1998/Discord-Bots/issues"
+  },
+  "homepage": "https://github.com/Arnav1998/Discord-Bots#readme",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "superagent": "^5.2.2"
+  }
+}
